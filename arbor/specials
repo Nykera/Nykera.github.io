@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Arbor Cafe - Home</title>
+      <title>Arbor Cafe - Specials</title>
    </head>
    <body>
       <header>
@@ -17,18 +17,6 @@
       <main>
          <section>
             <article>
-           
-               <p>Welocme to the home of <strong><em>gourmet country cooking!</em></strong></p>
-            <p>We hope you enjoy a quick bit of leisurely stay with us.</p>
-            
-            <h1>Dining Experiences</h1>
-            
-            <ul>
-              <li>English Garden Breakfast</li>
-              <li>Terrance Brunch</li>
-              <li>Porch Picnic</li>
-              <li>Library Liberalities</li>
-            </ul>
             
             </article>
          </section>
@@ -50,6 +38,7 @@
          
          <p><strong>&copy; Nykera Braziel</strong>, -- This is a Website for <em>IMED-1416</em> at <a href=""http://www.elcentrocollege.edu"El Centro College.</a></p>
          <p>Check out the rest of my <a href="https://Nykera.github.io">site</a>!</p>
+
          <p><a href="#top">Back to the top</a></p>
          <p>Last updated: feb.25</p>   http://paco.freehostia.com/arbor/arbor.html
          
