@@ -1,12 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+  
+  body {
+    width:800px;
+  }
+/* Create two equal columns that floats next to each other */
+.left {
+  float: left;
+  width: 70%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+  
+  .right {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 </head>
 <body>
 
-<h1>Emporium Pies</h1>
-<p>Welcome to our Page</p>
+<h2>Welcome to the Pie Emporium</h2>
+
+<div class="row">
+  <div class="left" style="background-color:#aaa;">
+    <h2>Our pie specials</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="right" style="background-color:#bbb;">
+    <h2>About our pie place</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 </body>
 </html>
