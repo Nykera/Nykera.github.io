@@ -1,5 +1,58 @@
  <html>
 <head>
+ <style>
+   * {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+.left {
+  width: 30%;
+}
+.right {
+  width: 70%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: #111;
+}
+.active {
+  background-color: #4CAF50;
+}
+.center {
+  text-align: center;
+}
+body {
+  max-width:900px;
+  margin:auto;
+  font-family: 'Open Sans', sans-serif;
+}
+  </style>
 <title>Emporium Pies - Products&Service</title>
  <main>
   <ul>
