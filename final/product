@@ -1,0 +1,23 @@
+ <html>
+<head>
+<title>Emporium Pies - Products&Service</title>
+ <main>
+    <section>
+      <article class="left">
+        <h1>Welcome to <strong><em>Emporium Pies!</em></strong></h1>
+        <p>Our delicious pies are made fresh to enjoy every day and stuffed to the crust with all of our love.</p>
+        <p>We hope you enjoy a quick a quick bite of our pies!</p>
+        
+        <h1>About Emporium Pies</h1>
+        <p><strong><em>Owner Information</em></strong></p>
+        <ul>
+          <li><strong><em>Name:</em></strong> Sandy Harrison</li>
+<li>She was born in Connecticut and raised in Dallas, Texas.</li>
+<li>She found out her passion for pies
+  when she saw her grandmother bake her favorite pie at the age 14 years old.</li>
+          <li><strong><em>Personal Email:</em></strong> sharrison@gmail.com</li>
+        </ul>
+        <p>We are located at the center of Deep Ellum, offering a panoramic view of Downtown Dallas.</p>
+  <p>Call ahead -- we welcome reservations!</p>
+      </article>
+    </section>
